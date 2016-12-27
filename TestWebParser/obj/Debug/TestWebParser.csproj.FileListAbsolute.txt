@@ -1,0 +1,13 @@
+c:\users\juven\documents\visual studio 2015\Projects\TestWebParser\TestWebParser\bin\Debug\TestWebParser.exe.config
+c:\users\juven\documents\visual studio 2015\Projects\TestWebParser\TestWebParser\bin\Debug\TestWebParser.exe
+c:\users\juven\documents\visual studio 2015\Projects\TestWebParser\TestWebParser\bin\Debug\TestWebParser.pdb
+c:\users\juven\documents\visual studio 2015\Projects\TestWebParser\TestWebParser\bin\Debug\HtmlAgilityPack.dll
+c:\users\juven\documents\visual studio 2015\Projects\TestWebParser\TestWebParser\bin\Debug\HtmlAgilityPack.pdb
+c:\users\juven\documents\visual studio 2015\Projects\TestWebParser\TestWebParser\bin\Debug\HtmlAgilityPack.xml
+c:\users\juven\documents\visual studio 2015\Projects\TestWebParser\TestWebParser\obj\Debug\TestWebParser.csprojResolveAssemblyReference.cache
+c:\users\juven\documents\visual studio 2015\Projects\TestWebParser\TestWebParser\obj\Debug\TestWebParser.Properties.Resources.resources
+c:\users\juven\documents\visual studio 2015\Projects\TestWebParser\TestWebParser\obj\Debug\TestWebParser.csproj.GenerateResource.Cache
+c:\users\juven\documents\visual studio 2015\Projects\TestWebParser\TestWebParser\obj\Debug\TestWebParser.exe
+c:\users\juven\documents\visual studio 2015\Projects\TestWebParser\TestWebParser\obj\Debug\TestWebParser.pdb
+c:\users\juven\documents\visual studio 2015\Projects\TestWebParser\TestWebParser\obj\Debug\TestWebParser.Parser.resources
+c:\users\juven\documents\visual studio 2015\Projects\TestWebParser\TestWebParser\obj\Debug\TestWebParser.Result.resources
